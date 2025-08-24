@@ -43,11 +43,4 @@ GitHub-Profile-Finder/
 3. Run the project:
     Simply open index.html in your browser.
 
-Enter any GitHub username → Click Search → Profile data appears instantly! 🎯
-
-
-
-
----
-
-## 📂 Project Structure
+Enter any GitHub username → Click Search → Profile data appears instantly.
